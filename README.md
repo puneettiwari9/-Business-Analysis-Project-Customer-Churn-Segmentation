@@ -74,6 +74,7 @@ The project focuses on analyzing **customer churn** in a telecommunications comp
 ## 👨‍💻 Author
 
 Puneet Tiwari
-📧 tiwaripuneet@gmail.com
+📧 tiwaripuneet9695@gmail.com
+new: puneettiwari.tech@gmail.com
 
 I successfully completed this internship project with SaiKet Systems, gaining hands-on experience in business analysis, data cleaning, visualization, and customer churn analysis.
